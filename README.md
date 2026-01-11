@@ -76,7 +76,7 @@ We use [Trunk](https://trunkrs.dev/) to build for web target.
 >       - <branch name>
 > ```
 
-You can test the template app at <https://emilk.github.io/eframe_template/>.
+You can test the template app at <https://thequantumghost.github.io/laniakea> <https://emilk.github.io/eframe_template/>.
 
 ## Updating egui
 
